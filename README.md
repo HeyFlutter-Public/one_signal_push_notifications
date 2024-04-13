@@ -1,16 +1,13 @@
-# notification_with_onesignal
+# One Signal Push Notifications
 
-A new Flutter project.
+This is a complete tutorial for integrating One Signal push notifications within the Flutter App. This repository is for education purposes so that you can learn the concepts of how you can implement Push notifications in Flutter.
+
+![WhatsApp Image 2024-04-13 at 04 32 40_8357988a](https://github.com/HeyFlutter-Public/one_signal_push_notifications/assets/56497715/3f1ddea7-1692-43db-9336-0a8fb6ffd0b9)
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a complete tutorial for integrating One Signal push notifications within the Flutter App. This repository is for education purposes so that you can learn the concepts of how you can implement Push notifications in Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Check out our YouTube tutorial to learn more in detail about implementing Push notifications in Flutter Apps.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
